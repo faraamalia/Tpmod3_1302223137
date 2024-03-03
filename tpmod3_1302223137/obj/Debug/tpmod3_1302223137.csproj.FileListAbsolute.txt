@@ -1,0 +1,10 @@
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\bin\Debug\tpmod3_1302223137.exe.config
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\bin\Debug\tpmod3_1302223137.exe
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\bin\Debug\tpmod3_1302223137.pdb
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.csproj.AssemblyReference.cache
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.Form1.resources
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.Properties.Resources.resources
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.csproj.GenerateResource.cache
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.exe
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD3\tpmod3_1302223137\tpmod3_1302223137\obj\Debug\tpmod3_1302223137.pdb

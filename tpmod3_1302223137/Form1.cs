@@ -29,11 +29,16 @@ namespace tpmod3_1302223137
 
         private void submitButton_Click(object sender, EventArgs e)
         {
-            string nama = inputTextbox.Text;
-            outputLabel.Text = ("halo" + " "+ nama);
+            string nama = textBox1.Text;
+            outputLabel.Text = ("Halo" + " " + nama);
         }
 
         private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void outputLabel_Click(object sender, EventArgs e)
         {
 
         }
